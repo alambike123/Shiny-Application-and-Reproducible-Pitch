@@ -21,4 +21,3 @@
   - 0 to 15 to WT variable; 
   - For the trasmission type there are two categories to be selected: Automatic or Manual.
 
-- 
