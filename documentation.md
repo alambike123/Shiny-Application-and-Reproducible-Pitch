@@ -4,7 +4,21 @@
 - This file will teach you how to use the Shiny application deployed on RPubs. The main objective is to predict the Miles/(US) gallon (mpg) from the data set mtcars. 
 
 - A simple linear regression was performed taking into account the variables: 
+  - Weight (1000 lbs)
+  - Transmission (0 = automatic, 1 = manual)
+  - Gross horsepower
+  
+- The Linear model employed in this work is:
+  -Linear.Model <- lm(mpg ~ wt + am + hp, data = mtcars )
+  
+- The board consists in three options:
+  - HP
+  - WT
+  - Transmission type
 
-- Weight (1000 lbs)
-- Transmission (0 = automatic, 1 = manual)
-- Gross horsepower
+- The range varies from: 
+  - 1 to 100 for the HP varaible;
+  - 0 to 15 to WT variable; 
+  - For the trasmission type there are two categories to be selected: Automatic or Manual.
+
+- 
