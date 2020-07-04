@@ -25,3 +25,7 @@
   - The blue bar represents the predict value of the *mpg* variable.
   - The green bar represents the HP variable.
   - The red bar represents the WT varibale.
+  
+- Image of the Shiny app:
+
+![Shiny application](shinyout.PNG){width=80%}
