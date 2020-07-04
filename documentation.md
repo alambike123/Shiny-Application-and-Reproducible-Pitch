@@ -28,4 +28,4 @@
   
 - Image of the Shiny app:
 
-![Shiny application](shinyout.PNG){width=80%}
+![Shiny application](shinyout.PNG)
